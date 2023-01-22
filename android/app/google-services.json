@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "47392887755",
+    "project_id": "test101-ac974",
+    "storage_bucket": "test101-ac974.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:47392887755:android:e09d9fdcfa1cfddc94dc4e",
+        "android_client_info": {
+          "package_name": "com.example.temphumidity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "47392887755-9pvco0e374j5js8tlkutmv5rfgd34h6l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQ2VONQu5Aln7svZsXru__rOCX7-rirXk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "47392887755-9pvco0e374j5js8tlkutmv5rfgd34h6l.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "47392887755-u63pf9mqlssq49l4b1gd8l36s4sufjk1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.temphumidity"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:47392887755:android:38e7552df715ef0b94dc4e",
+        "android_client_info": {
+          "package_name": "com.weather.myflutterapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "47392887755-9pvco0e374j5js8tlkutmv5rfgd34h6l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQ2VONQu5Aln7svZsXru__rOCX7-rirXk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "47392887755-9pvco0e374j5js8tlkutmv5rfgd34h6l.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "47392887755-u63pf9mqlssq49l4b1gd8l36s4sufjk1.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.temphumidity"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
